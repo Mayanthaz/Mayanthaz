@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayantha (Maya)</h1>
+<h1 align="center">Hi 👋, I'm Mayantha</h1>
 <h3 align="center">Software Engineering Student | Java Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 1st Year **Software Engineering Student**
+- 🎓 2nd Year **Software Engineering Student**
 - 💻 Interested in **Java, Spring Boot, Backend Development**
 - 🌱 Currently learning **Full Stack Development**
 - 🤝 Open to **team projects & collaborations**
