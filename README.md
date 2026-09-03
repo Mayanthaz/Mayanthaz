@@ -1,101 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:161B22,100:238636&text=MAYANTHA%20UDAYANGA&fontSize=40&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20COMPUTER%20SCIENCE%20%7C%20APPLIED%20AI&descAlignY=62&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Mayantha%20Udayanga&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Computer%20Science%20%7C%20Applied%20AI&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Software+Engineering+Student;Computer+Science+%2B+Applied+AI;Building+practical+software+and+intelligent+systems" alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=820&height=55&lines=Building+software+with+purpose.;Engineering+systems%2C+not+just+features.;Exploring+Applied+AI+%26+Machine+Learning.;Turning+ideas+into+working+products." alt="Typing animation"/>
-
-<p>
-<a href="https://github.com/Mayanthaz?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Mayanthaz?tab=followers"><img src="https://img.shields.io/github/followers/Mayanthaz?style=for-the-badge&label=Followers&color=161B22"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mayanthaz&style=for-the-badge&color=238636&label=PROFILE+VIEWS"/>
-</p>
+<a href="https://github.com/Mayanthaz?tab=repositories">Projects</a> ·
+<a href="https://www.linkedin.com/in/mayanthaudayanga/">LinkedIn</a> ·
+<a href="mailto:mayantha743@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
 I'm **Mayantha Udayanga**, a Software Engineering student following a path that combines **Software Engineering, Computer Science, and Applied AI**.
 
-I enjoy building systems from the ground up — understanding the problem, designing the logic, writing the code, working with data, deploying the solution, and improving it through iteration.
+I enjoy turning ideas into working systems — from understanding the problem and designing the architecture to building, testing, and deploying the solution.
 
-> **Learn the theory. Build the system. Understand why it works.**
-
----
-
-## 🧭 My Engineering Focus
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 Applied AI
-
-Machine Learning<br>Predictive Systems<br>AI-powered Applications
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ Software Engineering
-
-Backend Systems<br>REST APIs<br>OOP • Architecture • Databases
-
-</td>
-<td width="33%" align="center">
-
-### 🌐 Product Development
-
-Full-Stack Applications<br>Automation<br>Cloud & Deployment
-
-</td>
-</tr>
-</table>
+> **Learn deeply. Build practically. Improve continuously.**
 
 ---
 
-## 🛠️ Technology Stack
+## Focus
+
+- 🤖 **Applied AI & Machine Learning** — predictive applications and intelligent features
+- ⚙️ **Software Engineering** — OOP, architecture, APIs, databases and clean implementation
+- 🌐 **Full-Stack Development** — building complete applications from frontend to backend
+- ☁️ **Cloud & Automation** — deployment, APIs, bots and practical automation
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,cs,js,dart,html,css"/>
-
-**Frameworks & Platforms**
-
-<img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,express,firebase"/>
-
-**Data • Cloud • Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,postman,linux,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,js,dart,html,css,spring,flutter,nodejs,express,mysql,postgresql,firebase,docker,git,github,postman,linux,vscode,idea" alt="Technology stack" />
 
 </div>
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 ### 🧠 Daily Focus Predictor
 **Full-Stack Machine Learning Application**
 
 A practical ML application that predicts a user's daily focus level and presents model-driven results through a web dashboard.
 
-`Python` `Machine Learning` `Data` `Web Application`
+`Machine Learning` · `Python` · `Web Application` · `Dashboard`
 
 ### ☕ Java Management Systems
 
 Software engineering projects focused on **object-oriented design, CRUD workflows, database integration, GUI development and application structure**.
 
-`Java` `OOP` `MySQL` `Desktop Applications`
+`Java` · `OOP` · `MySQL`
 
 ### ⚡ Spring Boot Systems
 
 Backend applications built around **REST APIs, layered architecture, business logic and relational databases**.
 
-`Java` `Spring Boot` `REST API` `SQL`
+`Java` · `Spring Boot` · `REST API` · `SQL`
 
 ### 🤖 Automation & Bots
 
@@ -103,76 +70,50 @@ Projects and experiments combining **APIs, automation, Telegram bots, cloud serv
 
 ---
 
-## 🔄 The Way I Build
+## How I Build
 
 <div align="center">
 
-```text
-       DISCOVER
-          ↓
-       DESIGN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-        SHIP
-          ↓
-       IMPROVE
-          ↺
-```
+`IDEA` → `DESIGN` → `BUILD` → `TEST` → `DEPLOY` → `IMPROVE`
 
 </div>
 
-I believe strong engineering comes from repeatedly turning **knowledge into working software**.
+I learn best by building real projects, solving problems I haven't solved before, and improving what I create.
 
 ---
 
-## 📈 GitHub Activity
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayanthaz&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Mayanthaz&theme=github-dark-blue&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayanthaz&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark" alt="GitHub stats" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayanthaz&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
-
-</div>
-
----
-
-## 🎯 2026 Direction
-
-```text
-Software Engineering   ████████████████████  CORE
-Computer Science       ██████████████████░░  DEEPENING
-Applied AI             ████████████████░░░░  BUILDING
-Machine Learning       ██████████████░░░░░░  EXPLORING
-Backend Architecture   █████████████░░░░░░░  GROWING
-Cloud & DevOps         ███████████░░░░░░░░░  LEARNING
-System Design          ██████████░░░░░░░░░░  DEVELOPING
-```
-
-**Long-term goal:** become an engineer capable of taking a real problem from **concept → architecture → implementation → deployment → improvement**.
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="mailto:mayantha743@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://www.linkedin.com/in/mayanthaudayanga/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/Mayanthaz"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1700&color=8B949E&center=true&vCenter=true&width=650&height=35&lines=Think+deeply.;Build+boldly.;Keep+learning." alt="Closing animation"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Mayanthaz&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:238636,50:161B22,100:0D1117&animation=fadeIn" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayanthaz&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
+
+</div>
+
+---
+
+## 2026
+
+My current direction is to strengthen my foundations in **Computer Science and Software Engineering**, while building deeper practical skills in **Applied AI, Machine Learning, backend engineering, system design, and cloud technologies**.
+
+**Long-term:** build software that is technically solid, useful, and intelligent.
+
+---
+
+<div align="center">
+
+<a href="mailto:mayantha743@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/mayanthaudayanga/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://github.com/Mayanthaz"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1800&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Build+something+worth+remembering.;Keep+learning.+Keep+building." alt="Closing animation"/>
 
 </div>
